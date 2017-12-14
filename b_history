@@ -1,0 +1,960 @@
+yum groupinstall "X Window System" Desktop
+ifconfig
+ping 10.14.133.126
+q!
+exit
+startx
+ifconfig
+ip -V
+yum install dhcp
+vi /etc/sysconfig/network-scripts/ifcfg-cth0
+service dhcp start
+ifconfig
+setup
+ifconfig
+service network restart
+ifconfig
+ifconfig eth0
+ifup eth0
+ifconfig
+startx
+ping 10.14.133.8
+ifconfig
+ping 10.14.133.126
+su -
+su - root
+shutdown 
+shutdown --help
+shutdown -h
+-h
+shutdown /h
+/h
+shutdown --quiet
+vi quit
+shutdown -h
+shutdown -h now
+\
+ls -ltr
+pwd
+sqlplus
+where sqlplus
+which sqlplus
+yum update
+yum install vim
+ping google.com
+which yum
+/usr/bin/yum install vim
+date
+subscription-manager attach --auto
+subscription-manager register
+cat /var/log/rhsm/rhsm.log 
+subscription-manager register --help
+subscription-manager register --auto
+subscription-manager register --auto-attach
+date
+date-s
+date -s
+yum update
+yum install vim
+ifconfig
+df
+df10.94.190.11
+ping 10.94.189.11
+ifconfi9g
+ifconfig
+ping 10.14.131.126
+ifconfig
+shutdown now
+ping 10.14.131.126
+ping 10.14.133.8
+ifconfig
+setup
+ifconfig
+service network restart
+ifconfig
+service network restart
+ifup eth0
+service network restart
+ifconfig
+setup
+ifconfig
+ping 10.14.131.126
+ping 10.14.129.4
+ping google.com
+ping tmgate.techm
+gcc
+yum install vim
+ifconfig
+ping google.com
+python -v
+python --v
+python -help
+python -h
+python -V
+ifconfig
+ethtool eth0
+ifconfig eth0
+setup
+service network restart
+cat /etc/sysconfig/network-scripts/ifcfg-eth0 
+vi /etc/sysconfig/network
+hostname lightcrm
+ifconfig
+ls -l
+cd /
+ls -l
+fdisk -l
+cd /mnt/
+ls -l\
+ls -l
+cd /
+ls -l
+cd home/
+ls -l
+cd ..
+top
+history
+startx
+ping google.com
+curl www.google.com
+elinks google.com
+startx
+elinks google.com
+elinks https://google.com
+mount /root/rhel-server-6.9-x86_64-dvd.iso /media/ -o loop
+yum install telnet 
+telnet 10.254.3.121 8080
+elinks https://google.com
+yum install lynx
+lynx google.com
+service network restart
+lynx google.com
+useradd ashishk
+passwd ashishk
+visudo 
+su - ashishk
+ls -l
+pwd
+cd ~/Downloads/
+ls -l
+pwd
+ls -l
+tar -xvzf node-v8.9.2-linux-x64.tar.xz 
+tar -xvzf node-v8.9.2-linux-x64.tar.xz  .
+tar -Jxf node-v8.9.2-linux-x64.tar.xz 
+ls -l
+cd node-v8.9.2-linux-x64
+ls -l
+cd ..
+mv node-v8.9.2-linux-x64 /opt
+ls -l
+cd /opt/
+ls -l
+cd rh/
+ls -l
+cd ..
+cd ~/dow
+cd ~/Downloads/
+ls -l
+echo $PATH
+vim ~/.bash_profile 
+cd /opt/
+ls -l
+cd -
+vim ~/.bash_profile 
+exit
+df
+vgs
+node
+vim ~/.bash_profile 
+cd /opt/node-v8.9.2-linux-x64/bin
+ls -l
+cd //
+cd ..
+cd -
+pwd
+cd /opt/
+ls -l
+cd node-v8.9.2-linux-x64/
+ls -l
+echo $PATH
+cd ~/
+pwd
+ls -l
+ls -la
+cat .bash_profile 
+echo $PATH
+export PATH=/opt/node-v8.9.2-linux-x64/bin/:$PATH
+echo $PATH
+node -v
+npm install 
+npm install hapi
+uname -a
+pwd
+cd ~/Downloads/
+ls -l
+yum install oracle-instantclient12.2-basic-12.2.0.1.0-1.x86_64.rpm
+yum install oracle-instantclient12.2-devel-12.2.0.1.0-1.x86_64.rpm
+node -v
+echo $OCI_LIB_DIR
+npm install oracledb
+ls -l
+cd /
+ls -l\
+ls -l
+fdisk -l
+ls -l
+ping google.com
+tailf /var/log/messages 
+history 
+yum update
+yum install vim
+cd /opt/
+ll
+ls -l
+yumm install git
+yum install git
+git clone https://github.com/iauroKrunal/node-oracle.git
+ls -l
+cd node-oracle/
+ls -l
+cd test-node-oracle/
+ls -l
+rm -rf node_modules/
+vim package-lock.json 
+mv package-lock.json package.json
+npm install
+export PATH=/opt/node-v8.9.2-linux-x64/bin/:$PATH
+npm install
+ls -l
+npm install oracledb
+ls -la
+cd node_modules/
+ls -l
+cd ..
+sudo npm install oracledb
+sudo su
+/opt/node-v8.9.2-linux-x64/bin/npm install
+export PATH=/opt/node-v8.9.2-linux-x64/bin:$PATH
+npm install
+ls -l
+ls -l
+vim package
+mv package-lock.json ../
+ls -l
+npm install
+ls -lo
+ls -l
+cd ..
+mv test-node-oracle/ ~/
+ls -l
+cd ~/
+ls -l
+mv test-node-oracle/ Downloads/
+ls -l
+cd Downloads/
+ls -l
+cd test-node-oracle/
+ls -l
+npm install
+vim package.json 
+npm install oracledb
+npm install oracledb
+ls -l
+cd node_modules/
+ls l
+ll
+cd oracledb/
+ls -l
+cd lib/
+ls -l
+cd ..
+cd ..
+cd ..
+ls -l
+yum -y install gcc-c++
+gcc -v
+python -V
+cd /usr/src/
+wget https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz
+df
+df -h
+ll /opt/
+ll /opt/node-oracle/
+yum install gcc openssl-devel bzip2-devel
+cd /usr/src
+wget https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz
+curl "https://bootstrap.pypa.io/get-pip.py" -o "get-pip.py"
+env
+unset http_proxy
+env
+wget https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz
+umount /home/
+df
+df -h
+lvs
+e2fsck -ff /dev/mapper/VolGroup-lv_home 
+resize2fs /dev/mapper/VolGroup-lv_home 100G
+vgs
+lvs
+lvreduce -L -311G /dev/mapper/VolGroup-lv_home
+lvs
+vgs
+lvcreate -L 100G -n APP VolGroup
+lvcreate -L 50G -n ORACLE VolGroup
+lvcreate -L 50G -n SIEBELFS VolGroup
+mkfs.ext4 /dev/mapper/VolGroup-SIEBELFS 
+mkfs.ext4 /dev/mapper/VolGroup-ORACLE 
+mkfs.ext4 /dev/mapper/VolGroup-APP 
+vi /etc/fstab 
+cat  /etc/fstab 
+mkdir /app /oracle /siebelfs
+df
+df -h
+mount -a
+df
+df -h
+elinks https://www.google.co.in
+curl https://raw.githubusercontent.com/creationix/nvm/v0.13.1/install.sh | bash
+su - ashishk
+cd /usr/src/
+ls -l
+wget https://www.python.org/ftp/python/2.7.14/Python-2.7.14.tgz
+mv ~/Downloads/Python-2.7.14.tgz .
+pwd
+tar xzf Python-2.7.14.tgz
+cd Python-2.7.14
+ls -l
+./configure --enable-optimizations
+make altinstall
+python -V
+/usr/local/bin/python2.7 -V
+ls -l
+cd /usr/local/bin/
+ls -l
+cd /usr/bin/
+ls -l
+vim python
+python2.7 -V
+pwd
+ls -la
+ls -la | grep python
+ls -la | grep python2
+ls -la | grep python2.7
+python2.7\
+python2.7
+python2.7 -V
+python -V
+pwd
+cd ~/Desktop/
+vim text
+cd ../Downloads/
+ls -l
+rpm install oracle-instantclient12.2-sqlplus-12.2.0.1.0-1.x86_64.rpm 
+rpm install-v oracle-instantclient12.2-sqlplus-12.2.0.1.0-1.x86_64.rpm 
+rpm install -iv oracle-instantclient12.2-sqlplus-12.2.0.1.0-1.x86_64.rpm 
+ping  104.20.22.46:443
+ping  104.20.22.46
+cd -
+vim text 
+export PATH=/opt/node-v8.9.2-linux-x64/bin:$PATH
+echo $LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/opt/oracle/instantclient:$LD_LIBRARY_PATH
+export OCI_LIB_DIR=/opt/oracle/instantclient
+export OCI_INC_DIR=/opt/oracle/instantclient/sdk/include
+ls -l
+npm install oracledb
+npm install --python=/usr/local/bin/python2.7 oracledb
+npm install --python=/usr/local/bin/python2.7 oracledb
+npm install node-gyp
+npm install --python=/usr/local/bin/python2.7 oracledb
+echo $LD_LIBRARY_PATH
+export LD_LIBRARY_PATH=/opt/oracle/instantclient
+echo $LD_LIBRARY_PATH
+echo OCI_INC_DIR
+echo $OCI_INC_DIR
+echo $PATH
+echo $LIBPATH
+cd /opt/oracle/instantclient
+ls -l
+cd -
+export LIBPATH=/opt/oracle/instantclient_12_1:$LIBPATH
+ls -l
+npm install --python=/usr/local/bin/python2.7 oracledb
+export http_proxy=http://10.254.3.121:8080/
+npm install --python=/usr/local/bin/python2.7 oracledb
+npm config set proxy
+npm install --python=/usr/local/bin/python2.7 oracledb
+ls -l
+rm -rf node_modules/
+export http_proxy=
+npm install --python=/usr/local/bin/python2.7 oracledb
+gcc --version
+set http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+npm install --python=/usr/local/bin/python2.7 oracledb
+vim  /root/.npm/_logs/2017-12-06T21_44_38_605Z-debug.log
+telnet 104.20.23.46:443
+telnet 104.20.23.46 443
+vim /root/.npm/_logs/2017-12-06T21_44_38_605Z-debug.log
+echo $LD_LIBRARY_PATH
+echo $OCI_LIB_DIR
+echo $OCI_INC_DIR
+vim /root/.npm/_logs/2017-12-06T21_44_38_605Z-debug.log
+npm install --python=/usr/local/bin/python2.7 oracledb
+vim /root/.npm/_logs/2017-12-06T22_02_16_934Z-debug.log
+npm install --python=/usr/local/bin/python2.7 oracledb
+npm --verbose install --python=/usr/local/bin/python2.7 oracledb
+vim /root/.npm/_logs/2017-12-06T22_59_02_634Z-debug.log
+rpm -qa gcc*
+history|grep dlevel
+ls
+df -kh
+pw
+cd /app
+ls -ltr
+cd /oracle
+ls
+cd /home
+ls -ltr
+cd ashishk/
+ls
+cd ..
+ls -ltr
+pwd
+cd /opt
+ls
+cd rh
+ls
+cd devtoolset-1.1/
+ls
+cd root/
+l
+ls
+find /dev -name 'gcc*'
+lsdf -kh
+df -kh
+ls -l
+vim node_modules/oracledb/
+ls -l
+cd node_modules/oracledb/
+ls -l
+vim package.json 
+ls -l
+cd ..
+ls -l
+cd node_modules/
+ls -l
+cd ..
+ls -l
+date
+cd node_modules/
+ls -l
+cd ..
+ls -l
+ifconfig
+npm install node-gyp
+ls -l
+date
+ls -l
+cd ~/
+ls -l
+pwd
+vim .npm/
+cd .npm
+ls -l
+cd _lo
+cd _logs/
+ls -l
+date
+vim 2017-12-06T21_32_42_620Z-debug.log 
+ls -l
+yum list available |grep gcc
+yum list available |grep devtoolset
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo \
+cd /opt/
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo     http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+telnet 137.138.18.154 80
+subscription-manager list --available
+subscription-manager list --help
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+cd ~/Downloads/
+ls -l
+rpm -iv devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm 
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm 
+ls -l
+rpm install -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el5.i386.rpm 
+rpm -ivh install devtoolset-1.1-gcc-c++-4.7.2-5.el5.i386.rpm 
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el5.i386.rpm 
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm 
+ls -l
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el5.i386.rpm 
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm 
+rpm -ivh devtoolset-1.1-libstdc++-devel-4.7.2-5.el6.x86_64.rpm 
+rpm -ivh devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm 
+rpm -ivh devtoolset-1.1-gcc-4.7.2-5.el6.x86_64.rpm 
+rpm -ivh devtoolset-1.1-runtime-1-13.el5.noarch.rpm 
+rpm -ivh devtoolset-1.1-gcc-4.7.2-5.el6.x86_64.rpm 
+gcc --v
+rpm -qa gcc*
+open .
+ls -l
+which gcc
+ls /usr/bin/gcc -la
+rpm -if devtoolset-1.1-runtime
+rpm -f devtoolset-1.1-runtime
+find /usr -name 'gcc*'
+/usr/lib/gcc/
+/usr/bin/gcc -version
+rmp -qa gcc*
+rPM -qa gcc*
+rpm -qa gcc*
+ls -ltr
+rpm -i devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -iv devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -qa gc*
+man rpm
+rpm -q gcc*
+rpm -qa g*
+rpm -qa *c++*
+man rpm
+rpm -q devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -l devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -a devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm - devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -iv devtoolset-1.1-gcc-c++-4.7.2-5.el6.x86_64.rpm
+rpm -qa devtoolset*
+rpm -qa gcc*
+gcc -ersion
+gcc -version
+gcc
+which gcc
+ls -ltr
+rpm -iv devtoolset-1.1-libstdc++-devel-4.7.2-5.el6.x86_64.rpm
+rpm lib*
+rpm -qa lib*
+rpm -qa lib*c*
+rpm -qa lib*c*+
+rpm -qa lib*c+*
+pwd
+ls -ltr /usr/bin/gcc
+cd /usr/lib64
+ls
+ls -ltr gcc*
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo  http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+ cd -
+cd ~/
+ls -l
+cd Downloads/test-node-oracle/
+ls -=l
+ls -l
+rm -rf node_modules/
+npm install --python=/usr/local/bin/python2.7 oracledb
+export PATH=/opt/node-v8.9.2-linux-x64/bin:$PATH
+npm install --python=/usr/local/bin/python2.7 oracledb
+ls -l
+npm install --python=/usr/local/bin/python2.7 oracledb
+gcc -v
+ sudo yum install devtoolset-2
+cd /opt/
+ls -l
+mkdir oracle
+mv ~/Downloads/instantclient-* /opt/oracle/
+ls -l
+cd oracle/
+ls -l
+  unzip instantclient-basic-linux.x64-12.2.0.1.0.zip
+  cd /opt/oracle/instantclient_12_2
+  ln -s libclntsh.so.12.1 libclntsh.so
+  ln -s libocci.so.12.1 libocci.so
+yum install libaio
+sudo sh -c "echo /opt/oracle/instantclient_12_2 > \
+      /etc/ld.so.conf.d/oracle-instantclient.conf"
+ldconfig
+export LD_LIBRARY_PATH=/opt/oracle/instantclient_12_2:$LD_LIBRARY_PATH
+  mkdir -p /opt/oracle/instantclient_12_2/network/admin
+  export PATH=/opt/oracle/instantclient_12_2:$PATH
+echo $PATH
+ls -l
+pwd
+cd ..
+ls -l
+cd instantclient
+cd instantclient_12_2/
+ls -l
+ln -s libclntsh.so.12.1 libclntsh.so
+echo LD_LIBRARY_PATH
+echo $LD_LIBRARY_PATH
+cd ..
+export OCI_LIB_DIR=/opt/oracle/instantclient
+ls -l
+mv instantclient_12_2/ instantclient
+export LD_LIBRARY_PATH=/opt/oracle/instantclient:$LD_LIBRARY_PATH
+ls -l
+unzip instantclient-sdk-linux.x64-12.2.0.1.0.zip
+ls -l
+cd instantclient_12_2/
+ls -l
+mv sdk ../instantclient
+cd ../instantclient
+ls -l
+cd sdk/
+ls -l
+cd include/
+ls -l
+cd ..
+c d..
+cd ..
+export OCI_LIB_DIR=/opt/oracle/instantclient
+export OCI_INC_DIR=/opt/oracle/instantclient/sdk/include
+cd ~/Downloads/test-node-oracle/
+ls -l
+rm -rf node_modules/
+npm install
+npm install oracledb
+sudo npm install oracledb
+sudo su
+gcc -v
+telnet 137.138.18.154 80
+ yum install scl-utils devtoolset-3
+ifconfig 
+yum install /home/ashishk/devtoolset-3-3.0-15.el6.noarch.rpm 
+yum install /home/ashishk/devtoolset-3-*
+vi /etc/yum.repos.d/public-yum-ol6.repo
+yum update
+vi /etc/yum.repos.d/public-yum-ol6.repo
+yum update
+vi /etc/yum.repos.d/public-yum-ol6.repo
+yum update
+yum install /home/ashishk/devtoolset-3-*
+vi /etc/yum.conf 
+telnet 137.138.18.154 80
+history 
+vi /etc/yum.conf 
+yum update
+yum install /home/ashishk/devtoolset-3-*
+subscription-manager register
+vi /etc/rhsm/rhsm.conf 
+subscription-manager register
+mv /etc/yum.repos.d/slc6-devtoolset.repo  /tmp/
+mv /etc/yum.repos.d/public-yum-ol6.repo  /tmp/
+mv /etc/yum.repos.d/yum.repo  /tmp/
+yum repolist
+/etc/init.d/rhsmcertd resatrt
+/etc/init.d/rhsmcertd restart
+yum repolist
+ subscription-manager list
+date 
+vi /etc/sysconfig/clock 
+yum update
+subscription-manager list
+subscription-manager clean
+subscription-manager remove --all
+subscription-manager unregister
+yum clean all
+subscription-manager unregister
+subscription-manager register
+yum update
+yum repolist
+ls -ld /var/lib/rhsm/cache/content_overrides.json
+ls -ld /var/lib/rhsm/cache/
+ls -ld /var/lib/rhsm/
+ls -ld /var/lib/
+chmod 755 /var/lib/rhsm/cache/
+chmod 755 /var/lib/rhsm/
+yum repolist
+tzdata-update
+date 
+cat /etc/localtime 
+PuTTYPuTTYPuTTYPuTTYPuTTY
+system-config-date
+df
+setup
+subscription-manager list
+subscription-manager clean
+subscription-manager remove --all
+subscription-manager unregister
+yum clean all
+mv /tmp/yum.repo /etc/yum.repos.d/
+yum update
+yum repolist
+cd /home/ashishk/
+ll
+yum install devtoolset-3-*
+yum install devtoolset-3-3.0-15.el6.noarch.rpm
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-mylyn-builds-*
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-systemtap-3.2.0-2.0.1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-pde-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-tasks-trac-3.14.2-1.el6.noarch.rpm devtoolset-3-dyninst-8.2.0-1.el6.x86_64.rpm devtoolset-3-eclipse-emf-examples-2.10.2-2.el6.noarch.rpm devtoolset-3-eclipse-cdt-8.6.0-1.el6.x86_64.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-systemtap-3.2.0-2.0.1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-pde-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-tasks-trac-3.14.2-1.el6.noarch.rpm devtoolset-3-dyninst-8.2.0-1.el6.x86_64.rpm devtoolset-3-eclipse-emf-examples-2.10.2-2.el6.noarch.rpm devtoolset-3-eclipse-cdt-8.6.0-1.el6.x86_64.rpm rh-java-common-xerces-j2-2.11.0-17.7.el6.noarch.rpm rh-java-common-google-gson-2.2.2-8.3.el6.noarch.rpm devtoolset-3-eclipse-mylyn-builds-hudson-3.14.2-1.el6.noarch.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-systemtap-3.2.0-2.0.1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-pde-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-tasks-trac-3.14.2-1.el6.noarch.rpm devtoolset-3-dyninst-8.2.0-1.el6.x86_64.rpm devtoolset-3-eclipse-emf-examples-2.10.2-2.el6.noarch.rpm devtoolset-3-eclipse-cdt-8.6.0-1.el6.x86_64.rpm rh-java-common-runtime-1.1-43.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-docs-epub-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-platform-4.4.2-4.el6.x86_64.rpm rh-java-common-xml-commons-apis-1.4.01-16.14.el6.noarch.rpm 
+yum install scl-utils devtoolset-3-3.0-15.el6.noarch.rpm devtoolset-3-ide-3.0-15.el6.noarch.rpm devtoolset-3-perftools-3.0-15.el6.noarch.rpm devtoolset-3-runtime-3.0-15.el6.noarch.rpm devtoolset-3-eclipse-mylyn-docs-htmltext-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-cdt-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-ide-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-jdt-4.4.2-4.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-versions-cvs-3.14.2-1.el6.noarch devtoolset-3-eclipse-systemtap-3.2.0-2.0.1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-context-pde-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-tasks-trac-3.14.2-1.el6.noarch.rpm devtoolset-3-dyninst-8.2.0-1.el6.x86_64.rpm devtoolset-3-eclipse-emf-examples-2.10.2-2.el6.noarch.rpm devtoolset-3-eclipse-cdt-8.6.0-1.el6.x86_64.rpm rh-java-common-runtime-1.1-43.el6.x86_64.rpm devtoolset-3-eclipse-mylyn-docs-epub-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-mylyn-versions-3.14.2-1.el6.noarch.rpm devtoolset-3-eclipse-platform-4.4.2-4.el6.x86_64.rpm rh-java-common-xml-commons-apis-1.4.01-16.14.el6.noarch.rpm rh-java-common-ant-swing-1.9.2-9.24.el6.noarch.rpm devtoolset-3-eclipse-mylyn-sdk-3.14.2-1.el6.noarch.rpm 
+mv /tmp/public-yum-ol6.repo /etc/yum.repos.d/
+yum repolist
+yum install scl-utils devtoolset-3
+yum install gcc*
+rpm -qa |grep -i devtoolset-3
+rpm -qa |grep -i devtoolset-3-3
+yum update
+tailf /var/log/messages 
+tailf /var/log/rhsm/rhsm.log 
+ifconfig 
+tailf /var/log/rhsm/rhsm.log 
+sudo wget -O /etc/yum.repos.d/slc6-devtoolset.repo     http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+cat /tmp/slc6-devtoolset.repo 
+ls /etc/yum.repos.d/
+cat  /etc/yum.repos.d/slc6-devtoolset.repo 
+npm install oracledb
+yum install gcc
+gcc --version
+g++ --version
+gfortran --version
+sudo yum list devtoolset-3\*
+rpm -qa |grep -i gcc
+export OCI_LIB_DIR=$HOME/instantclient
+  export OCI_INC_DIR=$HOME/instantclient/sdk/include
+which npm && rm -rf $(npm root)/oracledb $(npm root)/nan $HOME/.node-gyp $HOME/.npm         && npm cache clean
+export http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+which npm && rm -rf $(npm root)/oracledb $(npm root)/nan $HOME/.node-gyp $HOME/.npm         && npm cache clean
+cat /root/.npm/_logs/2017-12-08T11_23_44_825Z-debug.log 
+npm cache verify
+which npm && rm -rf $(npm root)/oracledb $(npm root)/nan $HOME/.node-gyp $HOME/.npm         && npm cache clean
+which npm && rm -rf $(npm root)/oracledb $(npm root)/nan $HOME/.node-gyp $HOME/.npm         && npm cache clean --force
+cat /root/.npm/_logs/2017-12-08T11_23_44_825Z-debug.log 
+scl enable devtoolset-3 -- npm install oracledb
+ll "/root/
+ll /root/
+ll /root/node_modules/
+ll /root/node_modules/oracledb/
+ll /root/node_modules/oracledb/ -la
+sudo yum install devtoolset-2
+sudo yum install devtoolset-3
+rpm -qpR gcc-5.3.1-4.fc23.src.rpm | grep -E '= [[:digit:]]'
+sudo rpm --import http://ftp.scientificlinux.org/linux/scientific/5x/x86_64/RPM-GPG-KEYs/RPM-GPG-KEY-cern
+env
+export http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+sudo rpm --import http://ftp.scientificlinux.org/linux/scientific/5x/x86_64/RPM-GPG-KEYs/RPM-GPG-KEY-cern
+wget -O /etc/yum.repos.d/slc6-devtoolset.repo http://linuxsoft.cern.ch/cern/devtoolset/slc6-devtoolset.repo
+scl enable devtoolset-2 bash
+scl enable devtoolset-3 bash
+export CC=/opt/centos/devtoolset-1.1/root/usr/bin/gcc  
+export CPP=/opt/centos/devtoolset-1.1/root/usr/bin/cpp
+export CXX=/opt/centos/devtoolset-1.1/root/usr/bin/c++
+gcc -v
+yum --enablerepo=testing-1.1-devtools-6 install devtoolset-1.1-gcc devtoolset-1.1-gcc-c++
+yum install testing-1.1-devtools-6 install devtoolset-1.1-gcc devtoolset-1.1-gcc-c++
+yum install devtoolset-3*
+yum install devtoolset-3*gcc*
+yum install devtoolset-1.1
+sudo yum install devtoolset-3
+scl enable devtoolset-3 bash
+vim ~/Desktop/text 
+exit
+history
+export http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+yum update
+ping www.google.com
+ping google.com
+gcc -v
+cd ~/Downloads/
+ls
+mv test-node-oracle/ ~/Desktop/
+ls
+cd ~/Desktop/
+ls
+cd te
+cd test-node-oracle/
+ls
+vim dbconfig.js 
+npm install
+rm -rf node_modules/
+npm install
+node connect.js 
+ls
+cd node_modules/
+ls
+vim 
+ls
+cd ..
+ls
+vim package
+vim package.json 
+npm install --save oracledb
+sudo npm install --save oracledb
+cd node_modules/
+ls
+cd ..
+node connect.js 
+vim dbconfig.js 
+node connect.js 
+vim dbconfig.js 
+cp dbconfig.js ~/Desktop/
+vim dbconfig.js 
+cd ~/Downloads/
+ls
+rpm -ivh oracle-instantclient12.2-sqlplus-12.2.0.1.0-1.x86_64.rpm 
+sqlplus64 Light_CRM_User/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+export LD_LIBRARY_PATH=/usr/lib/oracle/12.2/client64/lib
+sqlplus64 Light_CRM_User/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+sqlplus64 Light_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1521/PCRMR1S
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+telnet 10.88.35.211:1526
+telnet 10.88.35.211 1526
+cd -
+vim dbconfig.js 
+node connect.js 
+ping 10.88.35.211
+node connect.js 
+vim dbconfig.js 
+sudo vim /etc/hosts
+sudo /bin/bash -c "echo '127.0.0.1 ${HOSTNAME}' >> /etc/hosts"
+sudo vim /etc/hosts
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+hostname -a
+hostname -A
+vim /etc/sysconfig/network
+sqlplus LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+hostname -A
+sudo vim /etc/hosts
+service network restart
+hostname -A
+sudo vim /etc/hosts
+vim /etc/sysconfig/network
+echo ${HOSTNAME}
+sudo vim /etc/hosts
+service network restart
+hostname -A
+sqlplus LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+node connect.js 
+git status
+cd /opt/
+ls
+cd ~/Desktop/test-node-oracle/
+git init
+git remote add https://github.com/iauroKrunal/node-oracle.git
+git remote add master https://github.com/iauroKrunal/node-oracle.git
+vim .git/config 
+git status
+git add -A .
+git commit -m "test"
+git push origin master
+vim .git/config 
+git push origin master
+vim .git/config 
+git push origin master
+vim .git/config 
+git push origin master
+vim .git/config 
+rm -rf .git/
+git init
+git remote add origin https://github.com/iauroKrunal/node-oracle.git
+git push origin master
+git status
+git add -A .
+git commit -m "test"
+git push origin master
+cd ..
+ls
+mv test-node-oracle/ test-node-oracle_tmp/
+git clone https://github.com/iauroKrunal/node-oracle.git
+ls
+git clone https://github.com/iauroKrunal/node-oracle.git
+git add -A .
+cd node-oracle/
+ls
+git add -A .
+git commit -m "test"
+git status
+git push origin master
+cd /opt/node-oracle/
+ls
+git status
+git add -A *
+git commit -m "test"
+git push origin master
+export http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+git push origin master
+ls
+cd ~/Desktop/node-oracle/
+ls
+cd test-node-oracle/
+ls
+git status
+git push origin master
+git branch
+git push origin master
+vim .git/config 
+cd ..
+ls
+cd ..
+ls
+cd node-oracle/
+tar -cvzf test-node-oracle/ test-node-oracle.tar.gz
+tar -cvzf test-node-oracle.tar.gz test-node-oracle/
+git push origin master
+cd ..
+ls
+cd node-oracle/
+git status
+git push origin master
+git remote set-url origin https://github.com/iauroKrunal/node-oracle.git
+git push origin master
+git pull origin master
+git stash
+git pull origin master
+git status
+rm test-node-oracle.tar.gz 
+git pull origin master
+git status
+git log
+ls
+cd test-node-oracle
+vim connect.js 
+vim dbconfig.js 
+git status
+git add -A .
+git commit -m "test"
+git push origin master
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+ls
+vim ~/.bash_history 
+startx
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+export LD_LIBRARY_PATH=/usr/lib/oracle/12.2/client64/lib
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+vim ~/.bash_profile 
+exit
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+echo $LD_LIBRARY_PATH
+vim ~/.bash_profile 
+echo $LD_LIBRARY_PATH
+exit
+export http_proxy=http://ps00420537:'Jayganesh@12345'@10.254.3.121:8080
+echo $LD_LIBRARY_PATH
+vim ~/.bash_profile 
+echo $LD_LIBRARY_PATH
+exit
+echo $LD_LIBRARY_PATH
+vim ~/.bash_profile 
+echo $LD_LIBRARY_PATH
+exit
+echo $LD_LIBRARY_PATH
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+export LD_LIBRARY_PATH=/usr/lib/oracle/12.2/client64/lib
+echo $LD_LIBRARY_PATH
+sqlplus64 LIGHT_CRM_USER/Voda#CRM123@10.88.35.211:1526/PCRMR1S
+vim ~/.bash_profile 
+sudo vim ~/.bash_profile 
+cd /root
+vim .bash_profile 
+ls
+echo $LD_LIBRARY_PATH
+exit
